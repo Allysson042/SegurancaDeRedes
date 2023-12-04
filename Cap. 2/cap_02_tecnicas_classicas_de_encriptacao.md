@@ -1,17 +1,4 @@
-Universidade Federal do 
-
-Agreste de Pernambuco 
-
-Av. Bom Pastor s/n - Boa Vista 
-
-55292-270 Garanhuns/PE 
-
-T +55 (87) 3764-5500 
-
-m http://www.ufape.edu.br 
-
-|<p>Bacharelado em Ciência da Computação </p><p>CCMP3079 Segurança de Redes de Computadores </p><p>Prof. Sérgio Mendonça </p><p>Atividade Cap. 02 </p><p>Para 17/10/2023</p>|
-| :-: |
+<img src = header2.JPG>
 
 
 Nome Completo: Allysson Guimarães
